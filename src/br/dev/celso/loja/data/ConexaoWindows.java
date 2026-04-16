@@ -1,8 +1,10 @@
 package br.dev.celso.loja.data;
 
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 
-public class Conexao {
+public class ConexaoWindows {
 
     private static Connection conexao = null;
 
