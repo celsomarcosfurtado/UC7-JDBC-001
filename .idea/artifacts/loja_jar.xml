@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="loja:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/loja_jar</output-path>
+    <root id="archive" name="loja.jar">
+      <element id="module-output" name="loja" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/SENAC/Java/sqljdbc_13.4.0.0_ptb/sqljdbc_13.4/ptb/jars/mssql-jdbc-13.4.0.jre11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
