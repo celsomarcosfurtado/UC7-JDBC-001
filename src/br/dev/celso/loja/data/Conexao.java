@@ -4,6 +4,7 @@ import java.sql.*;
 
 public class Conexao {
 
+    // teste
     private static Connection conexao = null;
 
     public static Connection getConexao(){
